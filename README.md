@@ -31,8 +31,9 @@ It fosters a circular economy around books and makes reading more accessible to 
 - **CSS Modules** – Custom styling
 
 ### Backend
-- **Node.js & Express.js** – RESTful API and server logic
+- **Node.js & Express.js** – server logic
 - **MySQL** – Relational database management
+- RESTful API
 - **Nodemon** – Development server automation
 
 ## 📦 Setup Instructions
